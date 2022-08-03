@@ -1,0 +1,11 @@
+body{
+    background: url(one.jpg) no-repeat;
+    background-size: cover;
+    color:rgb(15, 14, 14);
+    font-family: 'Times New Roman';
+}
+.header h2{
+    color:black;
+    font-weight: bolder;
+    text-align: center;
+}

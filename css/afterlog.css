@@ -1,0 +1,54 @@
+body{
+    background: url(6.jpg) no-repeat;
+    background-size: cover;
+    color:rgb(15, 14, 14);
+    font-family: 'Times New Roman';
+}
+
+.afterlog h1{
+    color:rgb(252, 252, 252);
+    font-weight: bolder;
+    text-align: center;
+}
+
+div.sticky {
+    position: sticky;
+    top: 0;
+    padding: 0;
+    border: 4px solid #ffffff;
+  
+  }
+/* Style the top navigation bar */
+.topnav {
+  
+  overflow: hidden;
+  background-color: #4095bd4d;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float:center;
+  display:block;
+  color: white;
+  text-align:center;
+  padding: 30px 20px;
+  
+}
+
+/* Change color on hover */
+.topnav a:hover {
+    background-color: rgb(240, 240, 240);
+    color: black;
+  }
+
+.log{
+    width: 500px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    font-weight: bold;
+    
+
+}

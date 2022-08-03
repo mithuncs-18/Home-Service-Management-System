@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin:0;
+    font-family: Arial;
+
+}
+
+body{
+    background: url(rrr.jpg) no-repeat;
+    background-size: cover;
+    color:rgb(255, 255, 255);
+}
+.pro h2{
+   
+    text-align: center;
+}
+.pro{
+    width: 280px;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+}
+.pro a{
+    color:white;
+    
+}
