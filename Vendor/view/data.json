@@ -1,0 +1,74 @@
+[
+    {
+        "mname": "Mithun",
+        "email": "mithunchanda1999@gmail.com",
+        "phone": "01789034490",
+        "address": "qqq",
+        "gender": "male",
+        "password": "123456",
+        "Profession": "electrician  "
+    },
+    {
+        "mname": "Mithun",
+        "email": "mithunchanda1999@gmail.com",
+        "phone": "01789034490",
+        "address": "qqq",
+        "gender": "male",
+        "password": "123456",
+        "Profession": "electrician  "
+    },
+    {
+        "mname": null,
+        "email": null,
+        "phone": null,
+        "address": null,
+        "gender": "",
+        "password": null,
+        "Profession": "  "
+    },
+    {
+        "mname": null,
+        "email": null,
+        "phone": null,
+        "address": null,
+        "gender": "",
+        "password": null,
+        "Profession": "  "
+    },
+    {
+        "mname": "Mithun",
+        "email": "mithunchanda1999@gmail.com",
+        "phone": "01789034490",
+        "address": "qqq",
+        "gender": "male",
+        "password": "123456",
+        "Profession": "electrician  "
+    },
+    {
+        "mname": null,
+        "email": null,
+        "phone": null,
+        "address": null,
+        "gender": "",
+        "password": null,
+        "Profession": "  "
+    },
+    {
+        "mname": "mmmdddd",
+        "email": " technolimitedbd@gmail.com",
+        "phone": "01411111",
+        "address": "111",
+        "gender": "male",
+        "password": "123456",
+        "Profession": "electrician  "
+    },
+    {
+        "mname": null,
+        "email": null,
+        "phone": null,
+        "address": null,
+        "gender": "",
+        "password": null,
+        "Profession": "  "
+    }
+]

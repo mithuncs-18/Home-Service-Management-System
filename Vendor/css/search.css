@@ -1,0 +1,12 @@
+body{
+    background: url(one.jpg) no-repeat;
+    background-size: cover;
+    color:rgb(2, 2, 2);
+}
+.search{
+    width: 500px;
+   position: absolute;
+   top: 30%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+}

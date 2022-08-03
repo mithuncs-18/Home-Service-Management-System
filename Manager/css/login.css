@@ -1,0 +1,38 @@
+
+  body {
+    font-family: Arial;
+    padding: 0px;
+    background: url(b.jpg) no-repeat;
+    background-size: cover;
+    color:rgb(6, 7, 22);
+  }
+  
+
+  
+  div.sticky {
+    position: sticky;
+    top: 0;
+    padding: 0;
+    border: 10px solid #1310ac;
+  
+  }
+  /* Style the top navigation bar */
+  .topnav {
+    
+    overflow: hidden;
+    background-color: rgb(221, 230, 230);
+    width: 200%;
+  }
+  
+  /* Style the topnav links */
+
+  .topnav h1 {
+      float: left;
+      display: block;
+      color: rgb(6, 69, 88);
+      text-align: left;
+      padding: 10px 90px;
+      text-decoration: none;
+    }
+  
+
